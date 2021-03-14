@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-todo-list-tutorial/static/css/main.3082920a.chunk.css",
-    "main.js": "/react-todo-list-tutorial/static/js/main.4f85242c.chunk.js",
-    "main.js.map": "/react-todo-list-tutorial/static/js/main.4f85242c.chunk.js.map",
+    "main.js": "/react-todo-list-tutorial/static/js/main.b7c0b9cb.chunk.js",
+    "main.js.map": "/react-todo-list-tutorial/static/js/main.b7c0b9cb.chunk.js.map",
     "runtime-main.js": "/react-todo-list-tutorial/static/js/runtime-main.9ef2838f.js",
     "runtime-main.js.map": "/react-todo-list-tutorial/static/js/runtime-main.9ef2838f.js.map",
-    "static/js/2.3c23d8fb.chunk.js": "/react-todo-list-tutorial/static/js/2.3c23d8fb.chunk.js",
-    "static/js/2.3c23d8fb.chunk.js.map": "/react-todo-list-tutorial/static/js/2.3c23d8fb.chunk.js.map",
+    "static/js/2.5038b9bc.chunk.js": "/react-todo-list-tutorial/static/js/2.5038b9bc.chunk.js",
+    "static/js/2.5038b9bc.chunk.js.map": "/react-todo-list-tutorial/static/js/2.5038b9bc.chunk.js.map",
     "index.html": "/react-todo-list-tutorial/index.html",
     "static/css/main.3082920a.chunk.css.map": "/react-todo-list-tutorial/static/css/main.3082920a.chunk.css.map",
-    "static/js/2.3c23d8fb.chunk.js.LICENSE.txt": "/react-todo-list-tutorial/static/js/2.3c23d8fb.chunk.js.LICENSE.txt"
+    "static/js/2.5038b9bc.chunk.js.LICENSE.txt": "/react-todo-list-tutorial/static/js/2.5038b9bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9ef2838f.js",
-    "static/js/2.3c23d8fb.chunk.js",
+    "static/js/2.5038b9bc.chunk.js",
     "static/css/main.3082920a.chunk.css",
-    "static/js/main.4f85242c.chunk.js"
+    "static/js/main.b7c0b9cb.chunk.js"
   ]
 }
